@@ -1,0 +1,43 @@
+{
+  "name": "blockmage-color-theme",
+  "publisher": "blockmage",
+  "displayName": "Blockmage Color Theme",
+  "description": "A dark/black color theme with electric blue accents. By Blockmage Ltd (blockmage.dev).",
+  "version": "0.1.0",
+  "homepage": "https://blockmage.dev",
+  "license": "Apache-2.0",
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "best",
+    "blue",
+    "cyan",
+    "dark",
+    "black",
+    "theme",
+    "cerulean",
+    "electric",
+    "blockmage"
+  ],
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Blockmage/vscode-blockmage-color-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/Blockmage/vscode-blockmage-color-theme/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blockmage Color Theme - Primary/Blue - v0.1.0",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blockmage-color-theme-v0.1.0.json"
+      }
+    ]
+  }
+}
