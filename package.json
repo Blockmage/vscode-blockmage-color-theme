@@ -3,7 +3,7 @@
   "publisher": "blockmage",
   "displayName": "Blockmage Color Theme",
   "description": "A dark/black color theme with electric blue accents. By Blockmage Ltd (blockmage.dev).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://blockmage.dev",
   "license": "Apache-2.0",
   "icon": "icon.png",
@@ -34,9 +34,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Blockmage Color Theme - Primary/Blue - v0.1.0",
+        "label": "Blockmage Color Theme - Primary/Blue - v0.1.1",
         "uiTheme": "vs-dark",
-        "path": "./themes/blockmage-color-theme-v0.1.0.json"
+        "path": "./themes/blockmage-color-theme-v0.1.1.json"
       }
     ]
   }

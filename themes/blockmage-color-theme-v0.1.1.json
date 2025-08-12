@@ -207,7 +207,7 @@
     "editorBracketHighlight.foreground4": "#21c3fc",
     "editorBracketHighlight.foreground5": "#d6f1ff",
     "editorBracketHighlight.foreground6": "#059cc6",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#fd4472",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#faf065",
 
     // --- editorBracketMatch
     "editorBracketMatch.background": "#374d5d80",
@@ -346,8 +346,8 @@
     "editorUnnecessaryCode.opacity": "#000000aa",
 
     // --- editorWarning
-    "editorWarning.foreground": "#ffcc66",
-    "editorWhitespace.foreground": "#384c5c",
+    "editorWarning.foreground": "#b9e4ff90",
+    "editorWhitespace.foreground": "#384c5cbd",
     "editorWidget.background": "#0f0f17",
     "editorWidget.border": "#1c2f3d",
     "editorWidget.foreground": "#aadcff",
