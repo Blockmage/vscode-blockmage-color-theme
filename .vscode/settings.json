@@ -1,6 +1,20 @@
 {
+  "[json][jsonc]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.codeActionsOnSave": {
+      "source.sort.json": "explicit"
+    },
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+  },
+  "biome.enabled": false,
   "cSpell.words": [
     "Alchemyst",
+    "Blockmage",
     "findinfiles",
     "selectionset",
     "thematicbreak",
