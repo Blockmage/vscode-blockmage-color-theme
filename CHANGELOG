@@ -1,0 +1,13 @@
+# Changelog
+
+## 2025-10-04
+
+- fix: contrast issues with for scm/git badges
+- docs: add screenshots to readme
+
+## 2025-09-22
+
+- chore: format & sort JSON; update workspace settings
+- chore: update .vscodeignore
+- feat: tweak colors for warnings; bump to v0.1.1
+- feat: initial commit

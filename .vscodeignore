@@ -1,5 +1,6 @@
-.vscode/**
-.vscode-test/**
 .gitignore
-vsc-extension-quickstart.md
 .local/
+.vscode-test/**
+.vscode/**
+biome.json
+vsc-extension-quickstart.md
