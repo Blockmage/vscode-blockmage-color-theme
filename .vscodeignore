@@ -2,5 +2,6 @@
 .local/
 .vscode-test/**
 .vscode/**
+images/**
 biome.json
 vsc-extension-quickstart.md

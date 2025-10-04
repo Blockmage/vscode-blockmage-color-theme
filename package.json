@@ -3,10 +3,10 @@
   "publisher": "blockmage",
   "displayName": "Blockmage Color Theme",
   "description": "Black color theme with cerulean blue accents.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://blockmage.dev",
   "license": "Apache-2.0",
-  "icon": "images/icon.png",
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
