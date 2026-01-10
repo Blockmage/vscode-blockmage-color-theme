@@ -11,3 +11,9 @@
 - chore: update .vscodeignore
 - feat: tweak colors for warnings; bump to v0.1.1
 - feat: initial commit
+
+## 2026-01-09
+
+- chore: bump copyright year
+- feat: bump version, tweak colors, and update docs
+- style(screenshot): fix contrast
