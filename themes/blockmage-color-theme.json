@@ -306,14 +306,14 @@
     // --- editorLink
     "editorLink.activeForeground": "#21c3fc",
 
-    // --- editorMarkerNavigation
-    "editorMarkerNavigation.background": "#2f3b54",
+    // --- editorMarkerNavigation // 2026-09-27
+    "editorMarkerNavigation.background": "#0F0F17",
     "editorMarkerNavigationError.background": "#21c3fc",
-    "editorMarkerNavigationError.headerBackground": "#21c3fc1a",
-    "editorMarkerNavigationInfo.background": "#d6f1ff",
-    "editorMarkerNavigationInfo.headerBackground": "#d6f1ff1a",
-    "editorMarkerNavigationWarning.background": "#b9e4ff",
-    "editorMarkerNavigationWarning.headerBackground": "#b9e4ff1a",
+    "editorMarkerNavigationError.headerBackground": "#0F0F17",
+    "editorMarkerNavigationInfo.background": "#21c3fc",
+    "editorMarkerNavigationInfo.headerBackground": "#0F0F17",
+    "editorMarkerNavigationWarning.background": "#21c3fc",
+    "editorMarkerNavigationWarning.headerBackground": "#0F0F17",
 
     // --- editorMultiCursor
     "editorMultiCursor.primary.foreground": "#21c3fc",
@@ -617,7 +617,7 @@
     "peekViewEditorGutter.background": "#0f0f17",
 
     // --- peekViewEditorStickyScroll
-    "peekViewEditorStickyScroll.background": "#2f3b54",
+    "peekViewEditorStickyScroll.background": "#0f0f17",
 
     // --- peekViewResult
     "peekViewResult.background": "#0f0f17",

@@ -27,3 +27,4 @@
 ## 2026-09-27
 
 - fix: minor tweaks for iPXE and YAML syntaxes
+- fix: contrast/colors for `editorMarkerNavigation.*`
