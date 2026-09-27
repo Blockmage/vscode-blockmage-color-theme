@@ -2206,6 +2206,20 @@
     {
       "scope": [ "support.function" ],
       "settings": { "foreground": "#999cf4", "fontStyle": "" }
+    },
+    {
+      "name": "Prevent iPXE operators from being italicized",
+      "scope": "keyword.control.Oprator.ipxe", // typo is intentional
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Prevent YAML block-scalar indicators ('|', '|-', '>', etc.) from being italicized",
+      "scope": "keyword.control.flow.block-scalar",
+      "settings": {
+        "fontStyle": ""
+      }
     }
   ]
 }

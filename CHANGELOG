@@ -23,3 +23,7 @@
 - **Modern UI Support**: Comprehensive styling updates for VS Code's new "Modern UI" layout.
 - **Fix**: Restored tab contrast and definition (Requires setting `modernUIEditorTabStyle` to `pill`).
 - **Terminal**: Adjusted ANSI colors for better parity with the updated workbench palette.
+
+## 2026-09-27
+
+- fix: minor tweaks for iPXE and YAML syntaxes
